@@ -1,0 +1,3 @@
+asyncpg
+asyncio
+python-dotenv
