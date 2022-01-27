@@ -1,4 +1,4 @@
-# Russian translations for PROJECT.
+# Ukrainian translations for PROJECT.
 # Copyright (C) 2022 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
@@ -10,8 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2022-01-27 17:34+0200\n"
 "PO-Revision-Date: 2022-01-24 11:19+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ru\n"
-"Language-Team: ru <LL@li.org>\n"
+"Language: uk\n"
+"Language-Team: uk <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "MIME-Version: 1.0\n"
@@ -20,25 +20,24 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: handlers/handlers.py:97
-#, fuzzy
 msgid "your default language - English, to switch it write /lang"
-msgstr "твой обычный язык - Русский, чтобы поменять его напиши /lang"
+msgstr "твоя звичайна мова - Українська, якщо бажаєш її змінити, напиши /lang"
 
 #: handlers/handlers.py:118
 msgid "What language do you prefer?"
-msgstr "какой язык предпочитаешь???"
+msgstr "Яку мову бажаєш обрати?"
 
 #: handlers/handlers.py:149
 msgid "Your id in this database - {0}"
-msgstr "Твой id в этой базе данных - {0}"
+msgstr "Твій id у базі даних - {0}"
 
 #: handlers/handlers.py:155
 msgid "Your name in telegram - {user_name}"
-msgstr "Твоё имя в телеграмме - {user_name}"
+msgstr "Твоє ім'я в телеграмі - {user_name}"
 
 #: handlers/handlers.py:162
 msgid "Your nickname - {0}"
-msgstr "Твой никнейм - {0}"
+msgstr "Твій нікнєйм - {0}"
 
 #: handlers/handlers.py:171
 msgid ""
@@ -46,10 +45,10 @@ msgid ""
 "{0}\n"
 "and your link: {1}"
 msgstr ""
-"твои рефераллы:"
-"{0}"
-"и твоя реферальная ссылка: {1}"
+"реферали"
+"{0}\n"
+"та ваше реферальне посилання: {1}"
 
 #: handlers/handlers.py:181
 msgid "Your test-balance in this db = {0}"
-msgstr "Твой тестовый баланс в этой базе данных = {0}"
+msgstr "Ваш тестовий баланс у цій базі даних = {0}"
